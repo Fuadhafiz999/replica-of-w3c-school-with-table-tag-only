@@ -1,0 +1,1 @@
+This project is a semi replica of w3c school made with table tag in html and somw of neccesary css codes. some pages such as index, reference, exercise,tutorials, lagnguage translation to bangali, dark/light theme are replicas and other links without these are directed to the original w3c schools webpages
